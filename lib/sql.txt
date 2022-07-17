@@ -1,0 +1,19 @@
+CREATE TABLE passenger(
+	id int(5) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+   	name varchar(30) NOT NULL,
+	username varchar(30) NOT NULL,
+	email varchar(25) NOT NULL,
+	password varchar(30) NOT NULL,
+	dob varchar(30) NOT NULL,
+	nid varchar(17) NOT NULL,
+	mobNo varchar(11) NOT NULL,
+	gender varchar(7) NOT NULL,
+    	userType varchar(20) NOT NULL;
+)
+CREATE TABLE instTicket(
+	id int(5) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	from varchar(30) NOT NULL,
+	to varchar(30) NOT NULL,
+	quantity int(3) NOT NULL,
+
+)

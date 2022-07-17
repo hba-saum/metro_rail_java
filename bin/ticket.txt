@@ -1,0 +1,5 @@
+ticket serial  :01835303030
+From           :UTTRA NORTH
+TO             :MOTIJHEEL
+Price          :225
+quantity       :3

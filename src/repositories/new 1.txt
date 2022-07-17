@@ -1,0 +1,17 @@
+today, the topic of my presentation is 
+Understanding the Relationship between IoT and AI to Stop the Misconduct of 
+Conserving Electrical Energy
+
+Here, the problem we are trying to solve is the misuse of electric energy.
+Before diving deeper,
+lets look at the tech we will to need.
+We will be using iot and ai. and some different kinds of sensors also
+Now let's look at a way to save electricity that we are calling 
+smart home concept.
+
+so what is this shart home concept?
+here, we can control devices remotely
+monitor them remotely,
+and most importantly devices can make desicions by it self. 
+which makes them automatic
+
